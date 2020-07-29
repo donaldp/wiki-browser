@@ -36,7 +36,7 @@ Run the application!
 php artisan serve
 ```
 
-> Don't forget to configure the default email account in the `.env` file.
+> Alternatively, you can use [Laravel Codespace](https://github.com/donaldp/laravel-codespace) on Visual Studio Codespace.
 
 ## Security Vulnerabilities
 
