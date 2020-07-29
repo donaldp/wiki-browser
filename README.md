@@ -28,8 +28,6 @@ Rename `.env.example` to `.env` then set the app key by running the following co
 php artisan key:generate --ansi
 ```
 
-Create a new Database and configure it in the `.env` then run the `migrate` command:
-
 Run the application!
 
 ```bash
